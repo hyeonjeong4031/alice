@@ -1,0 +1,33 @@
+ #navi{
+     width: 960px;
+     height: 100px;
+    background-color: #999;
+    float:left;
+    display: flex;
+}
+ footer{
+     width: 960px;
+     height: 100px;
+    background-color: #999;
+    align-content: center;
+}
+
+ol{
+    text-decoration-line: none;
+}
+ ul{
+    text-decoration-line: none;
+}
+
+div{
+    width: 50%;
+    float: left;
+}
+
+footer{
+    clear: both;
+}
+
+h1{
+    clear: both;
+}
